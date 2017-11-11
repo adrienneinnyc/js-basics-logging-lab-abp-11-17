@@ -1,6 +1,6 @@
 const driver = 'bob';
 
-console.lg("this code was called");
+console.log("this  was called");
 
 console.log(`${driver}`);
 
